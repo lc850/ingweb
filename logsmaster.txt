@@ -1,0 +1,23 @@
+commit 9960e4223ee25e880b0e21d95cd1d47c1fd3c0de
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Apr 14 13:45:54 2015 -0600
+
+    Quite boton de pagina inicio
+
+commit 666b2d17053be175d3072b89539426cdfa9c6b44
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Apr 14 13:40:21 2015 -0600
+
+    Agregue opcion salir al menu
+
+commit 45076d513d2e6e83f011f880d6bd9aeef1cd4204
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Apr 14 13:38:05 2015 -0600
+
+    quite boton buscar del nav
+
+commit ebf63ea6884434649e31bfe0bf9a4b52484ce298
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Apr 14 13:31:47 2015 -0600
+
+    Proyecto v1.0
